@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/ce4637dbe4f3c5df09bf2ef4f4e59b1793b262c853c8573b2104355295702be5/68747470733a2f2f7472697379612e636f6d2f6d79696d672f6368696c642f5765627369746525323044657369676e2e676966)
 <h1 align="center">Hi 👋, I'm Senumi Ranasinghe</h1>
 <h3 align="center">A passionate Frontend Developer | Undergraduate of SLIIT</h3>
-<img align = "center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align = "center" alt="Coding" width="300" border-radius: 50% src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senuranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="senuranasinghe" /> </p>
 
