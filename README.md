@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Frontend Developer | Undergraduate of SLIIT</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=ComicSansMs+Daughter&color=22EBF7&size=25&center=true&lines=hey!+its+Senumi.....;Frontend+web+developer...;UI/UX+Designer...;QA+Engineer...;Active+Open+Source+Contributor..."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=ComicSansMs+Daughter&color=22EBF7&size=25&center=true&lines=hey!+its+Senumi.....;Frontend+web+developer...;UI/UX+Designer...;QA+Engineer...;"/>
 </div>
 
 
